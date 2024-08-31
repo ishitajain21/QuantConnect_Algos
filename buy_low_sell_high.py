@@ -1,3 +1,28 @@
+'''
+Stats: 
+$26,556.00
+Equity
+-$21.00
+Fees
+$26,495.46
+Holdings
+$17,746.53
+Net Profit
+1.543%
+PSR
+431.12 %
+Return
+$3,808.47
+Unrealized
+$256,634.52
+Volume
+
+If we have bought and the price is below 90% its average value (we believe that there will be more losses in the future and we should cut our losses) or that it is 130% its average 
+value and that the stock will go down soon so we should sell now and retain the profit. 
+
+'''
+
+
 # region imports
 from AlgorithmImports import *
 # endregion
