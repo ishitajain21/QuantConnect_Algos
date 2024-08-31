@@ -1,0 +1,1 @@
+This repository documents my brief experiments with QuantConnect's backtesting platform. I report my strategy, its profits and losses and title it. This is to help me build intuition for the markets. 
